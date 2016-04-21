@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
+title:      "Dinosaurs are extinct today and yesterday"
 subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
 date:       2014-06-10 12:00:00
 author:     "Start Bootstrap"
