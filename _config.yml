@@ -1,0 +1,21 @@
+# Site settings
+title: Sarah F Test
+header-img: img/home-bg.png
+email: sarah.fox@flatironschool.com
+copyright_name: sfox91
+description: > # this means to ignore newlines until "baseurl:"
+  learnlovecode
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  sfox91
+learn_profile: sfox91
+email_username: sarah.fox@flatironschool.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
